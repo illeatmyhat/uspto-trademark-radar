@@ -1,0 +1,636 @@
+{
+  "silver_build": "build-20260708-193231",
+  "audit_table_version": "1",
+  "verdicts": [
+    {
+      "op_id": 1,
+      "n_marks": 18246,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 2,
+      "n_marks": 16489,
+      "key_type": "address",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 3,
+      "n_marks": 16449,
+      "key_type": "address",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 4,
+      "n_marks": 16058,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 5,
+      "n_marks": 14817,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 87,
+      "n_marks": 4598,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 103,
+      "n_marks": 3571,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 92,
+      "n_marks": 3537,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 102,
+      "n_marks": 3249,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 89,
+      "n_marks": 3067,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 86,
+      "n_marks": 2850,
+      "key_type": "address",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 90,
+      "n_marks": 2609,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 88,
+      "n_marks": 2334,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 104,
+      "n_marks": 1885,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 93,
+      "n_marks": 1855,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 100,
+      "n_marks": 1779,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 96,
+      "n_marks": 1700,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 105,
+      "n_marks": 1695,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 99,
+      "n_marks": 1542,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 95,
+      "n_marks": 1312,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 94,
+      "n_marks": 1178,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 101,
+      "n_marks": 1100,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 98,
+      "n_marks": 1089,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 97,
+      "n_marks": 1084,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 91,
+      "n_marks": 1075,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 66,
+      "n_marks": 940,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 79,
+      "n_marks": 917,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 57,
+      "n_marks": 685,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 55,
+      "n_marks": 672,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 76,
+      "n_marks": 607,
+      "key_type": "name",
+      "verdict": "mixed"
+    },
+    {
+      "op_id": 52,
+      "n_marks": 457,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 59,
+      "n_marks": 457,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 56,
+      "n_marks": 455,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 74,
+      "n_marks": 365,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 73,
+      "n_marks": 335,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 63,
+      "n_marks": 315,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 58,
+      "n_marks": 296,
+      "key_type": "address",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 67,
+      "n_marks": 291,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 60,
+      "n_marks": 285,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 64,
+      "n_marks": 276,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 53,
+      "n_marks": 265,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 84,
+      "n_marks": 243,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 71,
+      "n_marks": 241,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 80,
+      "n_marks": 211,
+      "key_type": "address",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 62,
+      "n_marks": 210,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 70,
+      "n_marks": 209,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 85,
+      "n_marks": 203,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 54,
+      "n_marks": 186,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 69,
+      "n_marks": 184,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 68,
+      "n_marks": 179,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 78,
+      "n_marks": 173,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 81,
+      "n_marks": 173,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 75,
+      "n_marks": 161,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 65,
+      "n_marks": 153,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 61,
+      "n_marks": 123,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 51,
+      "n_marks": 120,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 82,
+      "n_marks": 112,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 77,
+      "n_marks": 111,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 72,
+      "n_marks": 103,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 83,
+      "n_marks": 101,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 21,
+      "n_marks": 96,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 16,
+      "n_marks": 88,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 47,
+      "n_marks": 87,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 23,
+      "n_marks": 85,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 36,
+      "n_marks": 81,
+      "key_type": "address",
+      "verdict": "mixed"
+    },
+    {
+      "op_id": 27,
+      "n_marks": 80,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 49,
+      "n_marks": 79,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 17,
+      "n_marks": 77,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 50,
+      "n_marks": 69,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 24,
+      "n_marks": 67,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 26,
+      "n_marks": 67,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 43,
+      "n_marks": 66,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 42,
+      "n_marks": 63,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 28,
+      "n_marks": 62,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 38,
+      "n_marks": 62,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 35,
+      "n_marks": 61,
+      "key_type": "address",
+      "verdict": "mixed"
+    },
+    {
+      "op_id": 44,
+      "n_marks": 58,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 34,
+      "n_marks": 56,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 11,
+      "n_marks": 49,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 9,
+      "n_marks": 48,
+      "key_type": "name",
+      "verdict": "mixed"
+    },
+    {
+      "op_id": 41,
+      "n_marks": 48,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 13,
+      "n_marks": 47,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 30,
+      "n_marks": 45,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 29,
+      "n_marks": 43,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 15,
+      "n_marks": 36,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 25,
+      "n_marks": 36,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 14,
+      "n_marks": 35,
+      "key_type": "address",
+      "verdict": "mixed"
+    },
+    {
+      "op_id": 37,
+      "n_marks": 35,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 10,
+      "n_marks": 33,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 45,
+      "n_marks": 32,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 18,
+      "n_marks": 31,
+      "key_type": "address",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 19,
+      "n_marks": 31,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 12,
+      "n_marks": 30,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 32,
+      "n_marks": 29,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 40,
+      "n_marks": 29,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 8,
+      "n_marks": 28,
+      "key_type": "address",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 20,
+      "n_marks": 28,
+      "key_type": "address",
+      "verdict": "mixed"
+    },
+    {
+      "op_id": 33,
+      "n_marks": 28,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 31,
+      "n_marks": 27,
+      "key_type": "name",
+      "verdict": "mixed"
+    },
+    {
+      "op_id": 22,
+      "n_marks": 25,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 48,
+      "n_marks": 25,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 6,
+      "n_marks": 24,
+      "key_type": "name",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 39,
+      "n_marks": 22,
+      "key_type": "address",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 7,
+      "n_marks": 21,
+      "key_type": "address",
+      "verdict": "coherent"
+    },
+    {
+      "op_id": 46,
+      "n_marks": 20,
+      "key_type": "address",
+      "verdict": "mixed"
+    }
+  ]
+}

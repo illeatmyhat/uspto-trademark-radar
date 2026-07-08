@@ -1,0 +1,26 @@
+code,description,suffix_rule
+AF,In another form statement,"positions 3-5 = prime class; position 6: 0 = applies to both first-use dates, 1 = first use only, 2 = first use in commerce only"
+A0,Amendment to a registration/renewal certificate,positions 3-4 = last two digits of year of entry; positions 5-6 = month of entry
+B0,Certificate of correction for registration,positions 3-4 = last two digits of year of entry; positions 5-6 = month of entry
+CC,Indication of colors claimed,positions 3-6 = zeros
+CD,Description of the colors claimed,positions 3-6 = zeros
+CS,Certification mark statement,positions 3-6 = zeros
+CU,"Concurrent use statement (most recent, if present)",positions 3-4 = last two digits of year of entry; positions 5-6 = month of entry
+DM,Description of mark,positions 3-6 = zeros
+D0,Disclaimer (text disclaiming an unregistrable component of the mark),positions 3-6 = zeros
+D1,"Disclaimer with predetermined text ('No claim is made to the exclusive right to use ..., apart from the mark as shown.')",positions 3-6 = zeros
+FN,Foreign registration data (free-form text),positions 3-6 = zeros
+GS,Goods and services (double parenthesis ((..)) = 'less goods'; asterisks *..* = added wording; brackets [..] = deleted goods),"positions 3-5 = prime class; position 6: 1 = goods/services text with no 'less goods' text, 2 = 'less goods' text only, 3 = embedded 'less goods' text"
+IN,Interference statement,positions 3-6 = zeros
+LS,Lining/stippling statement,positions 3-6 = zeros
+MD,Undefined application/registration,positions 3-4 = last two digits of year of entry; positions 5-6 = month of entry
+MK,Mark overflow,positions 3-6 = zeros
+NR,Non-registration information,positions 3-6 = zeros
+N0,Name/portrait description and/or consent statement,positions 3-6 = zeros
+OR,Order restricting scope or claim of registration,positions 3-4 = last two digits of year of entry; positions 5-6 = month of entry
+PM,Pseudo mark,positions 3-6 = sequential entry number (zeros in some records)
+TF,Section 2(f) limitation statement,positions 3-6 = zeros
+TR,Translation of words in mark,positions 3-5 = sequential entry number or zeros; position 6 = 0 (translation submitted by applicant)
+TLIT,Transliteration statement,positions 5-6 = zeros
+TNSF,Transformation information,positions 5-6 = zeros
+LINKBR,Linkage information,full six-character code

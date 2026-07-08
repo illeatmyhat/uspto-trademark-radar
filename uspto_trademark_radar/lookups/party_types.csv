@@ -1,0 +1,62 @@
+code,description,legacy_description
+10,Original applicant,
+11,1st new owner before publication,1st new owner before publication
+12,2nd new owner before publication,not used
+13,3rd new owner before publication,2nd new owner before publication
+14,4th new owner before publication,not used
+15,5th new owner before publication,3rd new owner before publication
+16,6th new owner before publication,not used
+17,7th new owner before publication,4th new owner before publication
+18,8th new owner before publication,5th new owner before publication
+19,9th new owner before publication,6th new owner before publication
+20,Owner at publication,
+21,1st new owner after publication,1st new owner after publication
+22,2nd new owner after publication,not used
+23,3rd new owner after publication,2nd new owner after publication
+24,4th new owner after publication,not used
+25,5th new owner after publication,3rd new owner after publication
+26,6th new owner after publication,not used
+27,7th new owner after publication,4th new owner after publication
+28,8th new owner after publication,5th new owner after publication
+29,9th new owner after publication,6th new owner after publication
+30,Original registrant,
+31,1st owner after registration,not used
+32,2nd owner after registration,not used
+33,3rd owner after registration,not used
+34,4th owner after registration,not used
+35,5th owner after registration,not used
+36,6th owner after registration,not used
+37,7th owner after registration,not used
+38,8th owner after registration,not used
+39,9th owner after registration,not used
+40,10th owner after registration,1st new owner entered after registration
+41,11th owner after registration,2nd new owner entered after registration
+42,12th owner after registration,3rd new owner entered after registration
+43,13th owner after registration,4th new owner entered after registration
+44,14th owner after registration,5th new owner entered after registration
+45,15th owner after registration,6th new owner entered after registration
+46,16th owner after registration,7th new owner entered after registration
+47,17th owner after registration,8th new owner entered after registration
+48,18th owner after registration,9th new owner entered after registration
+49,19th owner after registration,10th new owner entered after registration
+50,20th owner after registration,not used
+51,21st owner after registration,not used
+52,22nd owner after registration,not used
+53,23rd owner after registration,not used
+54,24th owner after registration,not used
+55,25th owner after registration,not used
+56,26th owner after registration,not used
+57,27th owner after registration,not used
+58,28th owner after registration,not used
+59,29th owner after registration,not used
+60,30th owner after registration,not used
+61,31st owner after registration,not used
+62,32nd owner after registration,not used
+63,33rd owner after registration,not used
+64,34th owner after registration,not used
+65,35th owner after registration,not used
+66,36th owner after registration,not used
+67,37th owner after registration,not used
+68,38th owner after registration,not used
+69,39th owner after registration,not used
+70,Correspondent (legacy records only; correspondent now appears in the correspondent element group),

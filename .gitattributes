@@ -1,0 +1,3 @@
+# LF is canonical everywhere (repo and working tree, all platforms).
+# Overrides core.autocrlf so Windows/Linux/Mac checkouts are identical.
+* text=auto eol=lf

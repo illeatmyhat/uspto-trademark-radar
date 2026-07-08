@@ -1,0 +1,21 @@
+# Data never goes to git (ADR 0004) — HF is the data host.
+/data/
+/bronze/
+/silver/
+/silver_parts/
+/builds/
+/ledger.sqlite*
+*.parquet
+*.zip
+*.part
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+.pytest_cache/
+
+# Secrets
+.env

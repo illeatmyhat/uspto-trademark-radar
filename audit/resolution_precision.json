@@ -1,0 +1,58 @@
+{
+  "scored_at": "2026-07-09T03:29:46+00:00",
+  "silver_build": "build-20260708-193231",
+  "verdicts_file": "verdicts.json",
+  "sampled_operations": 105,
+  "counts": {
+    "coherent": 97,
+    "mixed": 8,
+    "unclear": 0,
+    "unreviewed": 0,
+    "invalid": 0,
+    "stale": 0
+  },
+  "overall": {
+    "coherent": 97,
+    "mixed": 8,
+    "adjudicated": 105,
+    "precision": 0.9238,
+    "wilson95": [
+      0.8568,
+      0.9609
+    ]
+  },
+  "by_stratum": {
+    "100-999": {
+      "coherent": 34,
+      "mixed": 1,
+      "adjudicated": 35,
+      "precision": 0.9714,
+      "wilson95": [
+        0.8547,
+        0.9949
+      ]
+    },
+    "1000+": {
+      "coherent": 25,
+      "mixed": 0,
+      "adjudicated": 25,
+      "precision": 1.0,
+      "wilson95": [
+        0.8668,
+        1.0
+      ]
+    },
+    "20-99": {
+      "coherent": 38,
+      "mixed": 7,
+      "adjudicated": 45,
+      "precision": 0.8444,
+      "wilson95": [
+        0.7122,
+        0.9225
+      ]
+    }
+  },
+  "definition": "precision = coherent / (coherent + mixed); over-merge is the only error (ADR 0014). Prevalence is not estimated - this is grouping precision on a size-stratified sample.",
+  "warnings": []
+}

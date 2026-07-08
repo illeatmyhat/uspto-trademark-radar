@@ -1,0 +1,22 @@
+code,description
+01,Individual
+02,Partnership
+03,Corporation
+04,Joint Ownership
+05,Joint Venture
+06,Incorporated Association
+07,Unincorporated Association
+08,Trustee
+09,Joint Stock Company
+10,Limited Liability Joint Stock Company
+11,Company
+12,Foundation
+13,Limited Partnership
+14,State Agency
+15,Federal Agency
+16,Limited Liability Company
+17,Trust
+18,Estate
+19,Sole Proprietorship
+98,Unknown
+99,Other (an entity statement should appear)

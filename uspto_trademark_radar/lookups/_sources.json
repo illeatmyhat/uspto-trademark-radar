@@ -1,0 +1,32 @@
+{
+  "status_codes.csv": {
+    "url": "https://data.uspto.gov/ui/datasets/products/files/TRTDXFAP/Table1TrademarkStatusCodes_20250813.doc",
+    "retrieved": "2026-07-08",
+    "note": "Table 1 'Trademark Status Codes' from the TRTDXFAP product documentation; table updated 2023-06-20 per its header. live_dead_indicator is USPTO's Live/Dead/Indifferent column."
+  },
+  "event_codes.csv": {
+    "url": "https://data.uspto.gov/ui/datasets/products/files/TRCFECO2/2023/event_description.csv.zip",
+    "retrieved": "2026-07-08",
+    "note": "USPTO Office of the Chief Economist, Trademark Case Files Dataset 2023 release, event_description.csv (event_cd, event_type, event_desc; occurrence counts dropped). Derived from observed prosecution histories; includes TMA expungement/reexamination-era codes. Narrative companion: Table 5 in https://data.uspto.gov/ui/datasets/products/files/TRTDXFAP/Trademark-Applications-Documentation-v2.3-20250813.doc"
+  },
+  "statement_types.csv": {
+    "url": "https://www.uspto.gov/sites/default/files/products/applications-documentation.pdf",
+    "retrieved": "2026-07-08",
+    "note": "Case File Statements section (type-code), Trademark Applications Daily XML v2.0 documentation pp. 22-23. Codes are prefix families; suffix_rule describes how the remaining positions of the six-character code are formed."
+  },
+  "party_types.csv": {
+    "url": "https://www.uspto.gov/sites/default/files/products/TMDailyApp-Documentation-508.pdf",
+    "retrieved": "2026-07-08",
+    "note": "Case File Owners section (party-type), Trademark Applications Daily XML v2.0 documentation (508 version, p. 15; the non-508 PDF truncates this table). description = scheme for records created/modified on or after 2003-11-02; legacy_description = scheme for records untouched since before that date."
+  },
+  "entity_codes.csv": {
+    "url": "https://www.uspto.gov/sites/default/files/products/applications-documentation.pdf",
+    "retrieved": "2026-07-08",
+    "note": "Case File Owners section (legal-entity-type-code), Trademark Applications Daily XML v2.0 documentation p. 37. Not relevant for records with party type 70."
+  },
+  "drawing_codes.csv": {
+    "url": "https://www.uspto.gov/sites/default/files/products/applications-documentation.pdf",
+    "retrieved": "2026-07-08",
+    "note": "Case File Header section (mark-drawing-code position 1), Trademark Applications Daily XML v2.0 documentation pp. 7-8. description = filings on/after 2003-11-02; description_pre_20031102 = earlier filings. Positions 2-4 (Official Gazette sizing) are not carried in silver."
+  }
+}
